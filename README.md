@@ -1,5 +1,5 @@
 
-# Addition to Traffic Light Management Systems for Faster and Safer Passage of Emergency Vehicles
+# Addition to Traffic Light Management Systems
 
 ## Summary
 
